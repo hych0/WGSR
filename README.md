@@ -28,5 +28,5 @@
 - Operating Conditions: Temperature (C)	H2 vol.%	O2 vol.%	CO vol.%	H2O vol.%	CO2 vol.%	CH4 vol.%	TOS (min)	F/W (mg.min/ml)
 - Output: CO Conversion
 
+![originalOpt](https://user-images.githubusercontent.com/74970802/169473359-b6140095-fc46-47cc-863a-f94537897e21.png)
 
-![original](https://user-images.githubusercontent.com/74970802/169463943-38bf2e20-1644-4a23-8607-7031c1a770da.png)
