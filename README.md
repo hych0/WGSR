@@ -27,3 +27,6 @@
 - Promoter type and weight %: Li	Ce	Co	Mg	Fe	Mn	Zr	K	Ni	Ca	Cs	V	Rb	Y	Na	La	Gd	Yb	Zn	Re	Ti	Cr	Ho	Nd	Tm	Sm	Er	Sr	YSZ		
 - Operating Conditions: Temperature (C)	H2 vol.%	O2 vol.%	CO vol.%	H2O vol.%	CO2 vol.%	CH4 vol.%	TOS (min)	F/W (mg.min/ml)
 - Output: CO Conversion
+
+
+![original](https://user-images.githubusercontent.com/74970802/169463943-38bf2e20-1644-4a23-8607-7031c1a770da.png)
