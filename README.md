@@ -29,4 +29,4 @@
 - Output: CO Conversion
 
 
-![originalOpt](https://user-images.githubusercontent.com/74970802/169480088-38205f19-a9a2-4d36-8ca5-c8a13a585a1a.png)
+![DecTreeOpt](https://user-images.githubusercontent.com/74970802/169757502-c123cb6d-8d17-4430-a120-f41aa891baf5.png)
