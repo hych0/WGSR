@@ -28,5 +28,9 @@
 - Operating Conditions: Temperature (C)	H2 vol.%	O2 vol.%	CO vol.%	H2O vol.%	CO2 vol.%	CH4 vol.%	TOS (min)	F/W (mg.min/ml)
 - Output: CO Conversion
 
-
+Pre-pruned:
 ![DecTreeOpt](https://user-images.githubusercontent.com/74970802/169757502-c123cb6d-8d17-4430-a120-f41aa891baf5.png)
+
+
+Post-pruned (Cost Complexity):
+![Pruned](https://user-images.githubusercontent.com/74970802/169955955-4b5db13c-3803-40e5-a4c4-6dcd4e821110.png)
