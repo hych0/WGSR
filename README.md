@@ -29,8 +29,8 @@
 - Output: CO Conversion
 
 Pre-pruned:
-![DecTreeOpt](https://user-images.githubusercontent.com/74970802/169757502-c123cb6d-8d17-4430-a120-f41aa891baf5.png)
+![DecTreeOpt](https://user-images.githubusercontent.com/74970802/169961302-5d3db7b5-ab06-4362-ad8e-0116926774e2.png)
 
 
 Post-pruned (Cost Complexity):
-![Pruned](https://user-images.githubusercontent.com/74970802/169955955-4b5db13c-3803-40e5-a4c4-6dcd4e821110.png)
+![Pruned](https://user-images.githubusercontent.com/74970802/169961364-80afb22c-3ffc-4a27-976f-90a7c512a3f2.png)
