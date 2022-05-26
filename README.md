@@ -29,18 +29,17 @@
 - Output: CO Conversion
 
 Pre-pruned:
-![DecTreeOpt](https://user-images.githubusercontent.com/74970802/169961302-5d3db7b5-ab06-4362-ad8e-0116926774e2.png)
+![DecTreeOpt](https://user-images.githubusercontent.com/74970802/170442069-257a4a60-e4cf-4279-b5bc-211e8c503484.png)
 
-![DecTreeOpt](https://user-images.githubusercontent.com/74970802/170193668-448336f4-7f88-4997-a0bf-59fa05ba6a7d.png)
 
 Post-pruned (Cost Complexity):
-![Pruned](https://user-images.githubusercontent.com/74970802/169961364-80afb22c-3ffc-4a27-976f-90a7c512a3f2.png)
+![Pruned](https://user-images.githubusercontent.com/74970802/170442126-ee6173e9-e760-48fd-9a16-d44d48a8cf22.png)
 
-![Pruned](https://user-images.githubusercontent.com/74970802/170193779-c8002c61-edf7-4371-aa9e-eeca47d60072.png)
 
 Au, post-pruned
-![Au_Pruned](https://user-images.githubusercontent.com/74970802/170193876-9850c349-a7c6-4bac-a68d-f3be8806cac9.png)
+![Au_Pruned](https://user-images.githubusercontent.com/74970802/170442210-b9ad06ba-816d-4f75-bfdc-13abc6c05280.png)
 
 
 Pt, post-pruned
-![Pt_Pruned](https://user-images.githubusercontent.com/74970802/170193919-c032295e-3805-46b5-a2cd-a9092b39db07.png)
+![Pt_Pruned](https://user-images.githubusercontent.com/74970802/170442260-2f53109e-cc96-4ade-93ec-bd32619f1a09.png)
+
