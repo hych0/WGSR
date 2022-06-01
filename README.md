@@ -28,6 +28,8 @@
 - Operating Conditions: Temperature (C)	H2 vol.%	O2 vol.%	CO vol.%	H2O vol.%	CO2 vol.%	CH4 vol.%	TOS (min)	F/W (mg.min/ml)
 - Output: CO Conversion
 
+Threshold 75% 
+
 Pre-pruned:
 ![DecTreeOpt](https://user-images.githubusercontent.com/74970802/170442069-257a4a60-e4cf-4279-b5bc-211e8c503484.png)
 
@@ -42,4 +44,8 @@ Au, post-pruned
 
 Pt, post-pruned
 ![Pt_Pruned](https://user-images.githubusercontent.com/74970802/170442260-2f53109e-cc96-4ade-93ec-bd32619f1a09.png)
+
+Threshold 90 %
+Post-pruned:
+![Pruned90](https://user-images.githubusercontent.com/74970802/171353905-f9ed3405-a230-4c76-868e-9243e107e92d.png)
 
