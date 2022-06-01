@@ -45,7 +45,9 @@ Au, post-pruned
 Pt, post-pruned
 ![Pt_Pruned](https://user-images.githubusercontent.com/74970802/170442260-2f53109e-cc96-4ade-93ec-bd32619f1a09.png)
 
-Threshold 90 %
+Threshold 90 % (0-90: Low, 90-100: High)
 Post-pruned:
 ![Pruned90](https://user-images.githubusercontent.com/74970802/171353905-f9ed3405-a230-4c76-868e-9243e107e92d.png)
 
+(75-90: Low, 90-100: High)
+![75_](https://user-images.githubusercontent.com/74970802/171364464-b36cca8d-4fa8-4019-8611-ceedd9e98fc3.png)
