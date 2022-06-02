@@ -51,3 +51,13 @@ Post-pruned:
 
 (75-90: Low, 90-100: High)
 ![75_](https://user-images.githubusercontent.com/74970802/171364464-b36cca8d-4fa8-4019-8611-ceedd9e98fc3.png)
+
+Base==Pt
+1. Threshold 90% (0-90: Low, 90-100: High)
+Post-pruned:
+![90_Pt](https://user-images.githubusercontent.com/74970802/171528436-4708e9e5-d5dc-448e-a7f3-0c05fbfc72c1.png)
+
+2. Threshold 90% (75-90: Low, 90-100: High)
+![90_Pt (1)](https://user-images.githubusercontent.com/74970802/171528665-9d5ff02d-599a-438b-898a-4e3da292b6c4.png)
+
+
