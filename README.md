@@ -1,5 +1,5 @@
 # WGSR
-## Accronyms for  catalyst preparation methods:
+## Acronyms for  catalyst preparation methods:
 - incipient to wetness impregnation (IWI)
 - wet impregnation (WI)
 - co-impregnation (CI)
@@ -14,7 +14,7 @@
 - micro emulsion (ME)
 - deposition precipitation (DP)
 
-## Accronyms for some supports
+## Acronyms for some supports
 - Zeolite (ZEO)
 - hydroxyapatite (HAP)
 - Activated Carbon (ACC)
